@@ -1,0 +1,11 @@
+
+MINESWEEPER STATISTICS REPORT 
+----------------------------- 
+BEGINNER GAMES:         INTERMEDIATE GAMES: 
+   Games Played: 2	   Games Played: 2
+   Games Won: 0		   Games Won: 0
+
+Percentage Wins:
+	Beginner:	0.00%
+	Intermediate:	0.00%
+	OVERALL:	0.00%
